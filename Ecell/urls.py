@@ -22,4 +22,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     url(r'^spons/', include('Sponsors.urls')),
     url(r'^speakers/', include('Speakers.urls')),
+    url(r'^startups/', include('Startups.urls')),
 ]
