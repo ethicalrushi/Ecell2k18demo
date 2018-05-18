@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     'Sponsors',
     'Speakers',
     'Startups',
+    'App',
 ]
 
 MIDDLEWARE = [
