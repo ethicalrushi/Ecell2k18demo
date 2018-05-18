@@ -44,6 +44,7 @@ INSTALLED_APPS = [
     'Speakers',
     'Startups',
     'App',
+    'Mentors',
 ]
 
 MIDDLEWARE = [

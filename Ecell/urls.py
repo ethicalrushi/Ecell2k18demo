@@ -23,4 +23,5 @@ urlpatterns = [
     url(r'^spons/', include('Sponsors.urls')),
     url(r'^speakers/', include('Speakers.urls')),
     url(r'^startups/', include('Startups.urls')),
+    url(r'^mentors/', include('Mentors.urls')),
 ]
